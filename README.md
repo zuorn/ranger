@@ -1,8 +1,7 @@
-# Ranger 一个 vi 风格键位绑定的控制台文件管理器。
+# Ranger 配置 
 
 ![](https://tva1.sinaimg.cn/large/008eGmZEly1gmy1m52qdfj31aq0u07ah.jpg)
 
-Ranger 是一个 vi 键位风格的控制台文件管理器。如果熟悉 vi/vim 的话，使用起来非常酸爽。
 
 ## 安装
 
