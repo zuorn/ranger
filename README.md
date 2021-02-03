@@ -1,5 +1,14 @@
 # Ranger 配置 
 
+                           __  __       ____
+                          |  \/  |_   _|  _ \ __ _ _ __   __ _  ___ _ __
+                          | |\/| | | | | |_) / _` | '_ \ / _` |/ _ \ '__|
+                          | |  | | |_| |  _ < (_| | | | | (_| |  __/ |
+                          |_|  |_|\__, |_| \_\__,_|_| |_|\__, |\___|_|
+                                  |___/                  |___/
+
+
+
 ![](https://tva1.sinaimg.cn/large/008eGmZEly1gmy1m52qdfj31aq0u07ah.jpg)
 
 
@@ -57,4 +66,6 @@ default_linemode devicons
 - 自定义键位绑定：https://github.com/ranger/ranger/wiki/Keybindings
 - 自定义命令：https://github.com/ranger/ranger/wiki/Keybindings
 
-### 其他参考官方文档： https://github.com/ranger/ranger/wiki/Official-User-Guide
+### 其他
+
+- 参考官方文档： https://github.com/ranger/ranger/wiki/Official-User-Guide
